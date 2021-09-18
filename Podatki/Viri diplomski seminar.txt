@@ -1,6 +1,8 @@
-S&P 500 - http://www.cboe.com/products/stock-index-options-spx-rut-msci-ftse/s-p-500-index-options/s-p-500-index/spx-historical-data- 23.10.2019
-VIX - http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data - 23.10.2019
+S&P 500 - https://query1.finance.yahoo.com/v7/finance/download%5EGSPC?period1=1072915200&period2=1617062400&interval=1d&events=historya- 30.3.2021
+VIX - https://query1.finance.yahoo.com/v7/finance/download/^VIX?period1=1072915200&period2=1617062400&interval=1d&events=history- 30.3.2021
 Volatility - https://www.investopedia.com/terms/v/volatility.asp 29.10.2019
 https://en.wikipedia.org/wiki/VIX 29.10.2019
 https://en.wikipedia.org/wiki/Volatility_(finance) 29.10.2019
 https://en.wikipedia.org/wiki/S%26P_500_Index 29.10.2019
+
+

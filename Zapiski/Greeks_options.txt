@@ -1,0 +1,15 @@
+Delta - kako se bo premija opcije spremenila, če se cena finančnega inštrumenta spremeni za 1$ (večja kot je delta, večja je verjetnost da bo opcija ITM)
+se spreminja
+
+Delta nakupne opcije (0,1)
+Delta prodajne opcije (-1, 0)
+
+Based on move up
+
+Gamma -  kako se bo spremenila delta, če se cena finančnega inštrumenta spremeni za 1$
+
+Theta -  kako se bo premija opcije spremenila z vsakim dnem (time-decay)
+
+Vega - kako se bo spremenila premija opcije, če se IV spremeni za 1% (vega je odvisna od datuma zapadlosti; dlje kot je ročnost opcije, večji vpliv bo imela vega
+
+So forward moving (ne vplivajo na premijo opcije)
